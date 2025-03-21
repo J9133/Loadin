@@ -1,4 +1,4 @@
-const token = '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';
+const token = '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';
 const repoOwner = 'j9133';
 const repoName = 'Data';
 
